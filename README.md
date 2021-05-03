@@ -1,1 +1,1 @@
-# COMP-249-Assignment-2
+# Inheritance Assignment (Java)
