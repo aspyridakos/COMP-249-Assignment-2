@@ -2,6 +2,7 @@
 COMP249_A2
 
 Introduction:
+
 The goal of this assignment was to understand how multiple inheritance of classes works in Java. Collaborated with group member Anne Bastien.
 
 Learning targets met:
