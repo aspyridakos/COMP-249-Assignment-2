@@ -12,3 +12,4 @@ Learning targets met:
 - overriding the "equals()" method
 - accessing attributes of imported class packages
 - using "super" and "this" to access constructors and attributes of classes
+- creating UML diagrams
